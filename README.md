@@ -51,9 +51,5 @@ LearnHub is an open-source platform focused on delivering a collaborative learni
 - Register or log in to your account.
 - Browse courses and join study groups.
 - Participate in discussions and share resources.
-- Track your learning progress and earn achievements.
-
-
----
-
-> Made with ❤️ by the LearnHub community.
+- Track your learning progress and earn achievements
+  
